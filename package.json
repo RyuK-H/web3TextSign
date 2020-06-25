@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "web3": "^1.2.9"
+  },
+  "scripts": {
+    "start": "node SignText.js"
+  }
+}
